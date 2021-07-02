@@ -1,3 +1,4 @@
 tensorflow
 numpy
 matplotlib
+tensorflow>=2.1.4 # not directly required, pinned by Snyk to avoid a vulnerability
